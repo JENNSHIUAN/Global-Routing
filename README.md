@@ -14,7 +14,7 @@ All the routes in the output could only be horizontal lines and vertical lines. 
 
 ![alt text](https://github.com/JENNSHIUAN/Global-Routing/blob/main/Figure/output_format.PNG?raw=true)
 
-[Red text] Note that for a certain net, x11, y11, xk2 and yk2 must be the same as xs, ys, xt and yt in the input file respectively. Also, for any i, xi2 and yi2 must be the same as x(i+1)1 and y(i+1)1 respectively.
+![Red text] Note that for a certain net, x11, y11, xk2 and yk2 must be the same as xs, ys, xt and yt in the input file respectively. Also, for any i, xi2 and yi2 must be the same as x(i+1)1 and y(i+1)1 respectively.
 
 
 ## Sample
@@ -46,5 +46,5 @@ $ ./main [input file.in] [output file.out]
 ```
 
 ## REMARKS
-------
+
 This is a homework from Algorithm Design and Application Lesson NTUST 2019 fall semester.
